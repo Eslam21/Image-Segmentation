@@ -48,7 +48,7 @@ In the above image, we can clearly see the shapes of all the cancerous cells. Th
 <br>
 <br>
 
-<p align="center"; style="color: cyan;font-size:40px"> K-Means Clustering </p> 
+<h1 align="center"; style="color: cyan;font-size:40px"> K-Means Clustering </h1> 
 
 
 ## What is clustering?
@@ -64,7 +64,7 @@ Now, look at the second figure (fig 2). This shows the data after applying the K
 
 <br><br>
 
-<h3 align="center"; style="color:cyan;font-size:30px;" > K-means Image Segmentation </h3>
+<h1 align="center"; style="color:cyan;font-size:60px;" > K-means Image Segmentation </h1>
 <br>
 
 ## What are we going to do?
@@ -93,10 +93,6 @@ An image consists of 3 dimensions
 <img style="height:280px;width:300px" src="Picture8.png">
 <img style="height:280px" src="Picture9.jpg">
 </p>
-
-
-
-
 
 
 
